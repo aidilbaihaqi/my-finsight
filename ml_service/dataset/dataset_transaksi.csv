@@ -1,0 +1,1001 @@
+nama_transaksi,nominal,tanggal,bulan,hari_dalam_seminggu,adalah_weekend,kategori
+Bayar air PDAM,496500,2024-09-10,9,1,0,Tagihan
+Tiket kereta Bandung,160500,2024-09-28,9,5,1,Transportasi
+Beli paracetamol,100000,2024-10-12,10,5,1,Kesehatan
+Konsultasi dokter umum,293500,2024-06-19,6,2,0,Kesehatan
+Kursus bahasa Inggris,241500,2024-09-01,9,6,1,Pendidikan
+Vitamin C Redoxon,60500,2024-04-05,4,4,0,Kesehatan
+Beli telur & sayur,8000,2024-02-15,2,3,0,Makanan & Minuman
+Beli flashcard,220000,2024-10-17,10,3,0,Pendidikan
+Beli kopi Kenangan,83000,2024-08-31,8,5,1,Makanan & Minuman
+Beli air mineral galon,101000,2024-06-24,6,0,0,Makanan & Minuman
+Bayar air PDAM,400500,2024-11-18,11,0,0,Tagihan
+KFC,147500,2024-05-13,5,0,0,Makanan & Minuman
+Alfamart kebutuhan rumah,578500,2024-01-25,1,3,0,Belanja
+Steam game,475000,2024-05-22,5,2,0,Hiburan
+Suplemen olahraga,215000,2024-10-19,10,5,1,Kesehatan
+Iuran BPJS,290500,2024-07-24,7,2,0,Kesehatan
+Konsultasi dokter umum,201000,2024-02-12,2,0,0,Kesehatan
+Tiket busway,180500,2024-01-06,1,5,1,Transportasi
+Ojek online kampus,97000,2024-11-29,11,4,0,Transportasi
+Parkir mall,35000,2024-09-13,9,4,0,Transportasi
+Bakso solo,96000,2024-05-18,5,5,1,Makanan & Minuman
+Kursus online Udemy,52000,2024-12-12,12,3,0,Pendidikan
+Kursus bahasa Inggris,361500,2024-12-06,12,4,0,Pendidikan
+Top up OVO,944000,2024-08-09,8,4,0,Tagihan
+Tiket kereta Bandung,62000,2024-04-07,4,6,1,Transportasi
+Fotokopi materi kuliah,371500,2024-01-28,1,6,1,Pendidikan
+Tol Jakarta Bekasi,81500,2024-10-13,10,6,1,Transportasi
+Klinik gigi,277500,2024-11-09,11,5,1,Kesehatan
+Beli air mineral galon,96500,2024-01-11,1,3,0,Makanan & Minuman
+Bayar listrik PLN,609500,2024-01-09,1,1,0,Tagihan
+Nonton bioskop CGV,386500,2024-05-31,5,4,0,Hiburan
+Spotify premium,384000,2024-01-07,1,6,1,Hiburan
+Beli tas ransel,98500,2024-04-27,4,5,1,Belanja
+Beli masker,292500,2024-08-04,8,6,1,Kesehatan
+Beli paracetamol,273500,2024-12-25,12,2,0,Kesehatan
+Beli masker,188500,2024-01-05,1,4,0,Kesehatan
+Beli alat tulis,265000,2024-05-12,5,6,1,Pendidikan
+Beli flashcard,256000,2024-10-31,10,3,0,Pendidikan
+Bayar air PDAM,74500,2024-02-10,2,5,1,Tagihan
+Shopee belanja bulanan,403000,2024-09-03,9,1,0,Belanja
+Gojek pulang kerja,179000,2024-03-05,3,1,0,Transportasi
+Bayar air PDAM,974500,2024-04-02,4,1,0,Tagihan
+Bayar listrik PLN,634500,2024-02-06,2,1,0,Tagihan
+Alfamart kebutuhan rumah,568500,2024-08-18,8,6,1,Belanja
+Beli tas ransel,66000,2024-03-20,3,2,0,Belanja
+Tagihan kartu kredit,642500,2024-08-17,8,5,1,Tagihan
+Kursus bahasa Inggris,389000,2024-07-07,7,6,1,Pendidikan
+Suplemen olahraga,204000,2024-06-22,6,5,1,Kesehatan
+Iuran BPJS,138000,2024-07-02,7,1,0,Kesehatan
+Vitamin C Redoxon,193000,2024-02-25,2,6,1,Kesehatan
+Suplemen olahraga,145500,2024-01-26,1,4,0,Kesehatan
+Fotokopi materi kuliah,278000,2024-10-30,10,2,0,Pendidikan
+Sarapan nasi uduk,78500,2024-09-07,9,5,1,Makanan & Minuman
+YouTube Premium,158000,2024-04-20,4,5,1,Hiburan
+Bensin mobil,162000,2024-12-29,12,6,1,Transportasi
+Tiket kereta Bandung,170000,2024-08-30,8,4,0,Transportasi
+Shopee belanja bulanan,775000,2024-08-31,8,5,1,Belanja
+Beli tas ransel,486000,2024-06-11,6,1,0,Belanja
+Cicilan HP,99500,2024-07-09,7,1,0,Tagihan
+Beli charger HP,794000,2024-08-24,8,5,1,Belanja
+Nonton bioskop CGV,298500,2024-10-11,10,4,0,Hiburan
+Steam game,84000,2024-04-17,4,2,0,Hiburan
+Sarapan nasi uduk,40500,2024-07-02,7,1,0,Makanan & Minuman
+Netflix bulanan,453000,2024-10-10,10,3,0,Hiburan
+Bayar listrik PLN,302000,2024-06-08,6,5,1,Tagihan
+Bensin motor,115000,2024-06-20,6,3,0,Transportasi
+Beli jurnal,301000,2024-12-06,12,4,0,Pendidikan
+Beli jurnal,382500,2024-08-12,8,0,0,Pendidikan
+Shopee belanja bulanan,675000,2024-06-07,6,4,0,Belanja
+Bensin mobil,64000,2024-07-20,7,5,1,Transportasi
+Bensin mobil,114500,2024-09-05,9,3,0,Transportasi
+Vitamin C Redoxon,256000,2024-11-09,11,5,1,Kesehatan
+Beli buku programming,268000,2024-04-15,4,0,0,Pendidikan
+Ojek online kampus,41000,2024-12-29,12,6,1,Transportasi
+Tiket KRL,9500,2024-08-21,8,2,0,Transportasi
+Bayar air PDAM,732500,2024-01-08,1,0,0,Tagihan
+Makan siang warteg,82500,2024-04-21,4,6,1,Makanan & Minuman
+Beli kopi Kenangan,24000,2024-05-18,5,5,1,Makanan & Minuman
+Vitamin C Redoxon,300000,2024-04-30,4,1,0,Kesehatan
+Beli paracetamol,63500,2024-03-05,3,1,0,Kesehatan
+Bayar kos bulanan,452500,2024-03-29,3,4,0,Tagihan
+Tagihan kartu kredit,386000,2024-01-25,1,3,0,Tagihan
+Makan malam padang,89500,2024-08-24,8,5,1,Makanan & Minuman
+Nonton bioskop CGV,344000,2024-09-02,9,0,0,Hiburan
+Top up GoPay,660500,2024-05-30,5,3,0,Tagihan
+Steam game,268000,2024-01-01,1,0,0,Hiburan
+Beli tas ransel,143500,2024-02-11,2,6,1,Belanja
+Deterjen & sabun,630000,2024-04-13,4,5,1,Belanja
+Game top up Mobile Legends,193000,2024-01-01,1,0,0,Hiburan
+Makan siang warteg,81500,2024-01-27,1,5,1,Makanan & Minuman
+Gojek pulang kerja,62000,2024-01-23,1,1,0,Transportasi
+Bayar kos bulanan,918500,2024-05-17,5,4,0,Tagihan
+Beli pulsa,1000000,2024-04-06,4,5,1,Tagihan
+KFC,95500,2024-07-17,7,2,0,Makanan & Minuman
+Beli masker,219000,2024-03-31,3,6,1,Kesehatan
+Deterjen & sabun,179500,2024-11-07,11,3,0,Belanja
+Bayar air PDAM,827000,2024-03-27,3,2,0,Tagihan
+Langganan Coursera,164000,2024-05-09,5,3,0,Pendidikan
+Kursus bahasa Inggris,391500,2024-04-25,4,3,0,Pendidikan
+Spotify premium,250000,2024-03-06,3,2,0,Hiburan
+Beli buku programming,108000,2024-01-14,1,6,1,Pendidikan
+Tagihan internet Indihome,444000,2024-05-07,5,1,0,Tagihan
+Beli pulsa,861500,2024-08-11,8,6,1,Tagihan
+Tol Jakarta Bekasi,10500,2024-05-07,5,1,0,Transportasi
+Bayar listrik PLN,70000,2024-03-12,3,1,0,Tagihan
+Tiket wahana Dufan,150000,2024-12-24,12,1,0,Hiburan
+Bayar listrik PLN,478500,2024-12-03,12,1,0,Tagihan
+Game top up Mobile Legends,297500,2024-12-26,12,3,0,Hiburan
+Karaoke happy hour,65500,2024-10-07,10,0,0,Hiburan
+Beli sepatu,312000,2024-09-29,9,6,1,Belanja
+Gofood ayam geprek,30500,2024-07-01,7,0,0,Makanan & Minuman
+Gojek pulang kerja,133000,2024-12-02,12,0,0,Transportasi
+Tagihan internet Indihome,777500,2024-01-07,1,6,1,Tagihan
+Kursus bahasa Inggris,259500,2024-06-07,6,4,0,Pendidikan
+Tiket KRL,182000,2024-09-20,9,4,0,Transportasi
+Bayar listrik PLN,337500,2024-04-17,4,2,0,Tagihan
+Suplemen olahraga,78000,2024-05-06,5,0,0,Kesehatan
+Gofood ayam geprek,137000,2024-07-07,7,6,1,Makanan & Minuman
+Konsultasi dokter umum,63500,2024-09-23,9,0,0,Kesehatan
+Jajan pasar,90500,2024-09-21,9,5,1,Makanan & Minuman
+Tagihan kartu kredit,528000,2024-01-24,1,2,0,Tagihan
+Beli boba,13500,2024-09-15,9,6,1,Makanan & Minuman
+Nonton bioskop CGV,82000,2024-04-27,4,5,1,Hiburan
+Top up OVO,462500,2024-08-31,8,5,1,Tagihan
+Tol Jakarta Bekasi,46000,2024-04-25,4,3,0,Transportasi
+Game top up Mobile Legends,406500,2024-08-23,8,4,0,Hiburan
+Tol Jakarta Bekasi,104500,2024-04-06,4,5,1,Transportasi
+Tagihan kartu kredit,948000,2024-12-18,12,2,0,Tagihan
+Beli charger HP,154500,2024-09-06,9,4,0,Belanja
+Pizza Hut,46500,2024-05-13,5,0,0,Makanan & Minuman
+Beli charger HP,418000,2024-01-27,1,5,1,Belanja
+Gofood ayam geprek,61500,2024-10-17,10,3,0,Makanan & Minuman
+Shopee belanja bulanan,749500,2024-07-06,7,5,1,Belanja
+Tiket KRL,100000,2024-09-06,9,4,0,Transportasi
+Beli baju Uniqlo,681500,2024-04-21,4,6,1,Belanja
+Ojek online kampus,177500,2024-07-18,7,3,0,Transportasi
+Vitamin C Redoxon,80000,2024-10-24,10,3,0,Kesehatan
+Bayar listrik PLN,968000,2024-06-05,6,2,0,Tagihan
+Tol Jakarta Bekasi,4500,2024-06-01,6,5,1,Transportasi
+Klinik gigi,168000,2024-03-25,3,0,0,Kesehatan
+Spotify premium,441500,2024-03-09,3,5,1,Hiburan
+Top up Free Fire,143500,2024-07-06,7,5,1,Hiburan
+Tiket busway,44500,2024-11-02,11,5,1,Transportasi
+Steam game,246500,2024-10-03,10,3,0,Hiburan
+Game top up Mobile Legends,200000,2024-06-15,6,5,1,Hiburan
+Beli kopi Kenangan,87000,2024-08-24,8,5,1,Makanan & Minuman
+Bayar listrik PLN,758500,2024-06-16,6,6,1,Tagihan
+Top up GoPay,627500,2024-03-10,3,6,1,Tagihan
+Kursus bahasa Inggris,489500,2024-08-14,8,2,0,Pendidikan
+Beli paracetamol,45000,2024-01-05,1,4,0,Kesehatan
+Grab ke kantor,97000,2024-05-06,5,0,0,Transportasi
+Kursus online Udemy,450500,2024-02-10,2,5,1,Pendidikan
+Fotokopi materi kuliah,414500,2024-07-04,7,3,0,Pendidikan
+Tiket kereta Bandung,148500,2024-11-28,11,3,0,Transportasi
+Beli masker,65000,2024-11-12,11,1,0,Kesehatan
+Beli telur & sayur,21500,2024-06-10,6,0,0,Makanan & Minuman
+Beli sepatu,307500,2024-09-09,9,0,0,Belanja
+Fotokopi materi kuliah,482500,2024-05-26,5,6,1,Pendidikan
+Jajan pasar,52000,2024-10-10,10,3,0,Makanan & Minuman
+Beli sepatu,714000,2024-02-02,2,4,0,Belanja
+Bayar listrik PLN,269000,2024-09-05,9,3,0,Tagihan
+Shopee belanja bulanan,393000,2024-03-13,3,2,0,Belanja
+Beli paracetamol,163000,2024-12-21,12,5,1,Kesehatan
+Top up GoPay,177500,2024-07-26,7,4,0,Tagihan
+Kursus online Udemy,317500,2024-09-05,9,3,0,Pendidikan
+Tagihan kartu kredit,795000,2024-04-13,4,5,1,Tagihan
+Spotify premium,169000,2024-11-05,11,1,0,Hiburan
+Pizza Hut,80500,2024-12-30,12,0,0,Makanan & Minuman
+Kursus online Udemy,228500,2024-07-28,7,6,1,Pendidikan
+YouTube Premium,491000,2024-02-19,2,0,0,Hiburan
+Konsultasi dokter umum,43500,2024-04-13,4,5,1,Kesehatan
+Indomaret snack,22500,2024-04-30,4,1,0,Makanan & Minuman
+Shopee belanja bulanan,163500,2024-10-06,10,6,1,Belanja
+Bakso solo,119000,2024-01-03,1,2,0,Makanan & Minuman
+Beli flashcard,52500,2024-07-18,7,3,0,Pendidikan
+Cicilan HP,583500,2024-07-13,7,5,1,Tagihan
+Beli obat apotek,286500,2024-01-28,1,6,1,Kesehatan
+Karaoke happy hour,246500,2024-01-21,1,6,1,Hiburan
+Tiket kereta Bandung,67500,2024-05-25,5,5,1,Transportasi
+Alfamart kebutuhan rumah,104000,2024-02-09,2,4,0,Belanja
+Beli flashcard,352000,2024-09-19,9,3,0,Pendidikan
+Beli masker,74500,2024-03-15,3,4,0,Kesehatan
+Ojek online kampus,114000,2024-10-24,10,3,0,Transportasi
+Gojek pulang kerja,19000,2024-10-10,10,3,0,Transportasi
+Gojek pulang kerja,167000,2024-07-05,7,4,0,Transportasi
+Kursus online Udemy,375000,2024-10-01,10,1,0,Pendidikan
+Top up Free Fire,275500,2024-10-05,10,5,1,Hiburan
+Suplemen olahraga,48500,2024-10-08,10,1,0,Kesehatan
+Karaoke happy hour,420000,2024-05-17,5,4,0,Hiburan
+Bakso solo,114500,2024-05-01,5,2,0,Makanan & Minuman
+Beli telur & sayur,106500,2024-12-10,12,1,0,Makanan & Minuman
+Bayar listrik PLN,598000,2024-06-15,6,5,1,Tagihan
+Cicilan HP,867000,2024-12-23,12,0,0,Tagihan
+Skincare Wardah,351500,2024-07-09,7,1,0,Belanja
+Beli buku programming,85000,2024-08-03,8,5,1,Pendidikan
+Top up OVO,703500,2024-12-30,12,0,0,Tagihan
+Beli tas ransel,265500,2024-11-16,11,5,1,Belanja
+Langganan Coursera,410500,2024-05-15,5,2,0,Pendidikan
+Top up Free Fire,294000,2024-03-29,3,4,0,Hiburan
+Beli flashcard,282000,2024-01-07,1,6,1,Pendidikan
+Pizza Hut,54500,2024-10-01,10,1,0,Makanan & Minuman
+Iuran BPJS,237000,2024-02-09,2,4,0,Kesehatan
+Beli buku programming,329500,2024-01-21,1,6,1,Pendidikan
+Beli buku programming,433000,2024-03-06,3,2,0,Pendidikan
+Iuran BPJS,290000,2024-07-11,7,3,0,Kesehatan
+Beli obat apotek,20000,2024-10-07,10,0,0,Kesehatan
+Beli masker,273500,2024-08-08,8,3,0,Kesehatan
+Bakso solo,31500,2024-12-21,12,5,1,Makanan & Minuman
+Fotokopi materi kuliah,469500,2024-03-28,3,3,0,Pendidikan
+Langganan Coursera,34000,2024-02-13,2,1,0,Pendidikan
+Konsultasi dokter umum,268000,2024-09-10,9,1,0,Kesehatan
+Beli buku programming,148000,2024-04-08,4,0,0,Pendidikan
+Gofood ayam geprek,124000,2024-01-22,1,0,0,Makanan & Minuman
+Tol Jakarta Bekasi,185000,2024-07-08,7,0,0,Transportasi
+McDonald,73500,2024-11-19,11,1,0,Makanan & Minuman
+Beli jurnal,12000,2024-12-12,12,3,0,Pendidikan
+Jajan pasar,11000,2024-09-09,9,0,0,Makanan & Minuman
+Spotify premium,348000,2024-03-14,3,3,0,Hiburan
+Suplemen olahraga,241500,2024-05-11,5,5,1,Kesehatan
+Beli kopi Kenangan,146000,2024-08-17,8,5,1,Makanan & Minuman
+Tol Jakarta Bekasi,193500,2024-04-10,4,2,0,Transportasi
+Bayar listrik PLN,141000,2024-10-06,10,6,1,Tagihan
+Top up Free Fire,251500,2024-02-07,2,2,0,Hiburan
+Tiket konser,23000,2024-04-20,4,5,1,Hiburan
+KFC,99000,2024-06-24,6,0,0,Makanan & Minuman
+Bayar kos bulanan,151500,2024-01-31,1,2,0,Tagihan
+Tiket kereta Bandung,149500,2024-11-13,11,2,0,Transportasi
+Vitamin C Redoxon,127000,2024-12-03,12,1,0,Kesehatan
+Nonton bioskop CGV,136000,2024-06-08,6,5,1,Hiburan
+Kursus bahasa Inggris,473000,2024-11-05,11,1,0,Pendidikan
+Suplemen olahraga,243500,2024-04-11,4,3,0,Kesehatan
+Beli sepatu,761500,2024-07-20,7,5,1,Belanja
+Beli charger HP,67500,2024-01-18,1,3,0,Belanja
+Suplemen olahraga,113500,2024-10-29,10,1,0,Kesehatan
+McDonald,82000,2024-10-13,10,6,1,Makanan & Minuman
+Alfamart kebutuhan rumah,527000,2024-09-19,9,3,0,Belanja
+Tiket busway,52000,2024-08-28,8,2,0,Transportasi
+Kursus bahasa Inggris,273500,2024-02-13,2,1,0,Pendidikan
+Shopee belanja bulanan,344500,2024-04-08,4,0,0,Belanja
+Tagihan internet Indihome,275000,2024-04-27,4,5,1,Tagihan
+Tagihan kartu kredit,524000,2024-06-24,6,0,0,Tagihan
+Konsultasi dokter umum,182000,2024-11-01,11,4,0,Kesehatan
+Gojek pulang kerja,98000,2024-02-09,2,4,0,Transportasi
+Spotify premium,231000,2024-10-18,10,4,0,Hiburan
+Tol Jakarta Bekasi,89500,2024-12-23,12,0,0,Transportasi
+Fotokopi materi kuliah,457000,2024-12-17,12,1,0,Pendidikan
+Iuran BPJS,241000,2024-08-05,8,0,0,Kesehatan
+Parkir mall,58000,2024-10-21,10,0,0,Transportasi
+Es teh manis,41000,2024-06-08,6,5,1,Makanan & Minuman
+KFC,26000,2024-06-09,6,6,1,Makanan & Minuman
+Beli pulsa,322000,2024-09-16,9,0,0,Tagihan
+Bayar air PDAM,21000,2024-06-23,6,6,1,Tagihan
+Alfamart kebutuhan rumah,448500,2024-08-25,8,6,1,Belanja
+Bayar air PDAM,456000,2024-11-01,11,4,0,Tagihan
+Nonton bioskop CGV,317500,2024-11-02,11,5,1,Hiburan
+Shopee belanja bulanan,715500,2024-05-15,5,2,0,Belanja
+Tiket busway,98500,2024-02-02,2,4,0,Transportasi
+Karaoke happy hour,393500,2024-05-30,5,3,0,Hiburan
+Beli air mineral galon,89500,2024-08-28,8,2,0,Makanan & Minuman
+Top up Free Fire,48500,2024-11-16,11,5,1,Hiburan
+Tagihan kartu kredit,972500,2024-01-20,1,5,1,Tagihan
+Skincare Wardah,257500,2024-11-12,11,1,0,Belanja
+Beli jurnal,131000,2024-04-07,4,6,1,Pendidikan
+Fotokopi materi kuliah,173500,2024-12-29,12,6,1,Pendidikan
+Netflix bulanan,177000,2024-03-18,3,0,0,Hiburan
+Beli air mineral galon,103000,2024-11-17,11,6,1,Makanan & Minuman
+Gojek pulang kerja,25500,2024-08-19,8,0,0,Transportasi
+Tol Jakarta Bekasi,129500,2024-12-14,12,5,1,Transportasi
+Sarapan nasi uduk,103500,2024-12-16,12,0,0,Makanan & Minuman
+Suplemen olahraga,55000,2024-01-29,1,0,0,Kesehatan
+Spotify premium,221000,2024-12-21,12,5,1,Hiburan
+Shopee belanja bulanan,327000,2024-06-27,6,3,0,Belanja
+Langganan Coursera,463000,2024-02-07,2,2,0,Pendidikan
+Steam game,153500,2024-05-13,5,0,0,Hiburan
+Tagihan internet Indihome,72500,2024-06-01,6,5,1,Tagihan
+Beli hand sanitizer,148000,2024-12-27,12,4,0,Kesehatan
+Bensin mobil,102500,2024-05-01,5,2,0,Transportasi
+Tiket kereta Bandung,47500,2024-01-07,1,6,1,Transportasi
+Beli sepatu,689500,2024-08-09,8,4,0,Belanja
+Makan siang warteg,123500,2024-09-22,9,6,1,Makanan & Minuman
+Makan malam padang,10000,2024-09-16,9,0,0,Makanan & Minuman
+Spotify premium,273500,2024-11-25,11,0,0,Hiburan
+Top up GoPay,31500,2024-10-06,10,6,1,Tagihan
+Beli kopi Kenangan,117000,2024-02-26,2,0,0,Makanan & Minuman
+Makan malam padang,103500,2024-03-31,3,6,1,Makanan & Minuman
+Tokopedia elektronik,704000,2024-12-16,12,0,0,Belanja
+Tiket konser,140000,2024-01-08,1,0,0,Hiburan
+Jajan pasar,72000,2024-07-10,7,2,0,Makanan & Minuman
+Bayar air PDAM,273000,2024-10-29,10,1,0,Tagihan
+Grab ke kantor,139000,2024-11-09,11,5,1,Transportasi
+Beli hand sanitizer,229500,2024-06-16,6,6,1,Kesehatan
+Beli alat tulis,228000,2024-02-20,2,1,0,Pendidikan
+Bensin motor,134000,2024-02-04,2,6,1,Transportasi
+Tagihan kartu kredit,160000,2024-08-04,8,6,1,Tagihan
+Cicilan HP,135000,2024-11-07,11,3,0,Tagihan
+Beli masker,13000,2024-01-12,1,4,0,Kesehatan
+Beli baju Uniqlo,199500,2024-06-13,6,3,0,Belanja
+Vitamin C Redoxon,10500,2024-05-11,5,5,1,Kesehatan
+Beli air mineral galon,75500,2024-09-07,9,5,1,Makanan & Minuman
+Fotokopi materi kuliah,25000,2024-03-07,3,3,0,Pendidikan
+Bayar air PDAM,583000,2024-03-28,3,3,0,Tagihan
+Beli charger HP,309500,2024-06-17,6,0,0,Belanja
+Skincare Wardah,733000,2024-02-14,2,2,0,Belanja
+YouTube Premium,274500,2024-09-25,9,2,0,Hiburan
+Tiket busway,127000,2024-07-01,7,0,0,Transportasi
+Bayar listrik PLN,897500,2024-01-23,1,1,0,Tagihan
+Beli air mineral galon,92500,2024-08-14,8,2,0,Makanan & Minuman
+Beli flashcard,250000,2024-12-15,12,6,1,Pendidikan
+Beli baju Uniqlo,733000,2024-10-04,10,4,0,Belanja
+Cicilan HP,449500,2024-06-25,6,1,0,Tagihan
+Tiket busway,10500,2024-03-21,3,3,0,Transportasi
+Beli flashcard,93500,2024-02-19,2,0,0,Pendidikan
+Konsultasi dokter umum,44000,2024-01-16,1,1,0,Kesehatan
+Deterjen & sabun,215500,2024-10-21,10,0,0,Belanja
+Bensin mobil,145000,2024-02-11,2,6,1,Transportasi
+Bensin mobil,100000,2024-08-17,8,5,1,Transportasi
+Klinik gigi,66500,2024-03-26,3,1,0,Kesehatan
+Cicilan HP,700500,2024-10-09,10,2,0,Tagihan
+Netflix bulanan,228500,2024-04-02,4,1,0,Hiburan
+Beli obat apotek,177000,2024-06-14,6,4,0,Kesehatan
+Beli obat apotek,254000,2024-10-19,10,5,1,Kesehatan
+Top up OVO,818500,2024-02-21,2,2,0,Tagihan
+Game top up Mobile Legends,369500,2024-02-20,2,1,0,Hiburan
+Suplemen olahraga,71500,2024-05-23,5,3,0,Kesehatan
+Beli tas ransel,319500,2024-05-21,5,1,0,Belanja
+Kursus bahasa Inggris,156000,2024-10-07,10,0,0,Pendidikan
+Top up GoPay,244000,2024-09-27,9,4,0,Tagihan
+Nonton bioskop CGV,463500,2024-04-29,4,0,0,Hiburan
+Bayar air PDAM,154000,2024-11-25,11,0,0,Tagihan
+Jajan pasar,68500,2024-03-22,3,4,0,Makanan & Minuman
+Vitamin C Redoxon,224500,2024-11-16,11,5,1,Kesehatan
+Klinik gigi,278500,2024-07-10,7,2,0,Kesehatan
+Top up OVO,933000,2024-12-12,12,3,0,Tagihan
+Beli tas ransel,324000,2024-08-28,8,2,0,Belanja
+Game top up Mobile Legends,163500,2024-01-28,1,6,1,Hiburan
+Beli obat apotek,281500,2024-06-06,6,3,0,Kesehatan
+Netflix bulanan,489000,2024-08-19,8,0,0,Hiburan
+Beli masker,14000,2024-07-20,7,5,1,Kesehatan
+Grab food mie ayam,79000,2024-06-19,6,2,0,Makanan & Minuman
+Bayar air PDAM,174500,2024-04-04,4,3,0,Tagihan
+Beli sepatu,448500,2024-04-20,4,5,1,Belanja
+Klinik gigi,183500,2024-09-01,9,6,1,Kesehatan
+Top up Free Fire,147000,2024-05-12,5,6,1,Hiburan
+Beli buku programming,157000,2024-04-19,4,4,0,Pendidikan
+Beli baju Uniqlo,557000,2024-07-27,7,5,1,Belanja
+Vitamin C Redoxon,114500,2024-06-06,6,3,0,Kesehatan
+Game top up Mobile Legends,498500,2024-08-13,8,1,0,Hiburan
+Konsultasi dokter umum,177000,2024-11-11,11,0,0,Kesehatan
+Top up GoPay,273500,2024-08-09,8,4,0,Tagihan
+Langganan Coursera,158000,2024-05-13,5,0,0,Pendidikan
+Vitamin C Redoxon,82000,2024-12-30,12,0,0,Kesehatan
+Bayar listrik PLN,906500,2024-11-20,11,2,0,Tagihan
+Jajan pasar,122000,2024-01-29,1,0,0,Makanan & Minuman
+Gojek pulang kerja,26000,2024-02-29,2,3,0,Transportasi
+Gofood ayam geprek,40000,2024-04-24,4,2,0,Makanan & Minuman
+Top up OVO,681500,2024-08-21,8,2,0,Tagihan
+Netflix bulanan,64000,2024-12-07,12,5,1,Hiburan
+Tagihan kartu kredit,108500,2024-05-24,5,4,0,Tagihan
+Tagihan kartu kredit,199000,2024-01-26,1,4,0,Tagihan
+Pizza Hut,81000,2024-05-15,5,2,0,Makanan & Minuman
+Gojek pulang kerja,83000,2024-06-23,6,6,1,Transportasi
+Gojek pulang kerja,163500,2024-05-23,5,3,0,Transportasi
+Shopee belanja bulanan,456500,2024-10-15,10,1,0,Belanja
+Beli baju Uniqlo,165500,2024-12-24,12,1,0,Belanja
+Beli boba,130500,2024-03-25,3,0,0,Makanan & Minuman
+Grab ke kantor,45000,2024-06-19,6,2,0,Transportasi
+Bayar kos bulanan,243500,2024-01-03,1,2,0,Tagihan
+Skincare Wardah,141000,2024-11-28,11,3,0,Belanja
+Bensin mobil,52000,2024-05-08,5,2,0,Transportasi
+Beli flashcard,110000,2024-03-22,3,4,0,Pendidikan
+Suplemen olahraga,231000,2024-07-20,7,5,1,Kesehatan
+Tiket wahana Dufan,351000,2024-11-25,11,0,0,Hiburan
+YouTube Premium,296500,2024-12-15,12,6,1,Hiburan
+Langganan Coursera,251000,2024-01-02,1,1,0,Pendidikan
+Kursus bahasa Inggris,355500,2024-04-28,4,6,1,Pendidikan
+Nonton bioskop CGV,364000,2024-02-03,2,5,1,Hiburan
+Tiket kereta Bandung,171500,2024-04-27,4,5,1,Transportasi
+Beli jurnal,423500,2024-01-05,1,4,0,Pendidikan
+Top up OVO,126000,2024-03-01,3,4,0,Tagihan
+Makan malam padang,88500,2024-10-27,10,6,1,Makanan & Minuman
+Tiket KRL,182000,2024-01-13,1,5,1,Transportasi
+Deterjen & sabun,266500,2024-08-20,8,1,0,Belanja
+Bayar kos bulanan,366500,2024-03-06,3,2,0,Tagihan
+Grab food mie ayam,142000,2024-08-15,8,3,0,Makanan & Minuman
+Gofood ayam geprek,116000,2024-02-16,2,4,0,Makanan & Minuman
+Tiket busway,77000,2024-10-08,10,1,0,Transportasi
+Beli buku programming,84500,2024-12-04,12,2,0,Pendidikan
+Netflix bulanan,298500,2024-06-21,6,4,0,Hiburan
+Tiket busway,54500,2024-10-24,10,3,0,Transportasi
+Gojek pulang kerja,109000,2024-04-16,4,1,0,Transportasi
+Kursus online Udemy,406000,2024-04-07,4,6,1,Pendidikan
+Iuran BPJS,80500,2024-06-21,6,4,0,Kesehatan
+Tagihan kartu kredit,165000,2024-04-04,4,3,0,Tagihan
+Beli masker,168000,2024-04-08,4,0,0,Kesehatan
+Tokopedia elektronik,104500,2024-06-02,6,6,1,Belanja
+Top up GoPay,926000,2024-11-18,11,0,0,Tagihan
+Cicilan HP,39500,2024-11-13,11,2,0,Tagihan
+Alfamart kebutuhan rumah,21500,2024-02-17,2,5,1,Belanja
+KFC,92500,2024-10-30,10,2,0,Makanan & Minuman
+Bayar listrik PLN,421500,2024-11-21,11,3,0,Tagihan
+Beli masker,93000,2024-06-07,6,4,0,Kesehatan
+Beli telur & sayur,136000,2024-03-19,3,1,0,Makanan & Minuman
+Langganan Coursera,379000,2024-04-30,4,1,0,Pendidikan
+Grab ke kantor,156000,2024-08-08,8,3,0,Transportasi
+Beli pulsa,307500,2024-07-06,7,5,1,Tagihan
+KFC,41000,2024-02-11,2,6,1,Makanan & Minuman
+Top up GoPay,439500,2024-07-09,7,1,0,Tagihan
+Bayar listrik PLN,818000,2024-11-01,11,4,0,Tagihan
+Vitamin C Redoxon,199500,2024-07-17,7,2,0,Kesehatan
+Makan malam padang,138000,2024-02-10,2,5,1,Makanan & Minuman
+Beli charger HP,332000,2024-12-12,12,3,0,Belanja
+Spotify premium,138000,2024-11-23,11,5,1,Hiburan
+Bayar listrik PLN,183500,2024-02-02,2,4,0,Tagihan
+Beli paracetamol,130500,2024-08-08,8,3,0,Kesehatan
+Jajan pasar,69000,2024-03-05,3,1,0,Makanan & Minuman
+Beli air mineral galon,82500,2024-12-22,12,6,1,Makanan & Minuman
+Es teh manis,62000,2024-01-11,1,3,0,Makanan & Minuman
+Game top up Mobile Legends,385000,2024-08-19,8,0,0,Hiburan
+Ojek online kampus,94500,2024-05-15,5,2,0,Transportasi
+Alfamart kebutuhan rumah,728000,2024-08-20,8,1,0,Belanja
+Bensin mobil,100000,2024-06-13,6,3,0,Transportasi
+Grab ke kantor,149000,2024-01-16,1,1,0,Transportasi
+Beli obat apotek,91000,2024-12-23,12,0,0,Kesehatan
+Beli hand sanitizer,98000,2024-10-16,10,2,0,Kesehatan
+Beli boba,55500,2024-02-16,2,4,0,Makanan & Minuman
+Beli masker,188500,2024-10-20,10,6,1,Kesehatan
+Bensin mobil,48000,2024-04-22,4,0,0,Transportasi
+Iuran BPJS,165000,2024-08-10,8,5,1,Kesehatan
+Game top up Mobile Legends,163500,2024-10-23,10,2,0,Hiburan
+Tiket KRL,113500,2024-06-27,6,3,0,Transportasi
+YouTube Premium,22000,2024-08-16,8,4,0,Hiburan
+Vitamin C Redoxon,211500,2024-12-01,12,6,1,Kesehatan
+Tiket konser,217500,2024-11-11,11,0,0,Hiburan
+Beli charger HP,665000,2024-02-09,2,4,0,Belanja
+Langganan Coursera,101000,2024-07-26,7,4,0,Pendidikan
+Top up GoPay,572000,2024-11-28,11,3,0,Tagihan
+Tokopedia elektronik,351500,2024-10-19,10,5,1,Belanja
+Klinik gigi,266000,2024-11-30,11,5,1,Kesehatan
+McDonald,119500,2024-11-13,11,2,0,Makanan & Minuman
+Kursus online Udemy,244500,2024-08-23,8,4,0,Pendidikan
+Netflix bulanan,195000,2024-01-04,1,3,0,Hiburan
+Shopee belanja bulanan,520000,2024-07-18,7,3,0,Belanja
+Tagihan internet Indihome,164000,2024-07-24,7,2,0,Tagihan
+Klinik gigi,278500,2024-12-11,12,2,0,Kesehatan
+Tiket kereta Bandung,51000,2024-06-17,6,0,0,Transportasi
+Beli alat tulis,182500,2024-03-20,3,2,0,Pendidikan
+Langganan Coursera,80000,2024-07-25,7,3,0,Pendidikan
+Top up Free Fire,399500,2024-12-27,12,4,0,Hiburan
+Kursus bahasa Inggris,115500,2024-04-23,4,1,0,Pendidikan
+Spotify premium,327500,2024-11-23,11,5,1,Hiburan
+Iuran BPJS,71500,2024-02-20,2,1,0,Kesehatan
+Tagihan kartu kredit,426500,2024-01-19,1,4,0,Tagihan
+Tiket kereta Bandung,86000,2024-09-24,9,1,0,Transportasi
+Game top up Mobile Legends,31000,2024-03-06,3,2,0,Hiburan
+Parkir mall,128000,2024-06-22,6,5,1,Transportasi
+Sarapan nasi uduk,142000,2024-04-10,4,2,0,Makanan & Minuman
+Fotokopi materi kuliah,16000,2024-10-07,10,0,0,Pendidikan
+Bayar listrik PLN,303000,2024-11-03,11,6,1,Tagihan
+Beli alat tulis,153000,2024-08-10,8,5,1,Pendidikan
+Fotokopi materi kuliah,126500,2024-11-28,11,3,0,Pendidikan
+Gojek pulang kerja,14500,2024-05-24,5,4,0,Transportasi
+Tiket konser,24500,2024-06-17,6,0,0,Hiburan
+Deterjen & sabun,162500,2024-09-25,9,2,0,Belanja
+Vitamin C Redoxon,159000,2024-07-06,7,5,1,Kesehatan
+Cicilan HP,836500,2024-01-09,1,1,0,Tagihan
+Deterjen & sabun,599500,2024-12-25,12,2,0,Belanja
+Beli masker,228000,2024-09-19,9,3,0,Kesehatan
+Kursus bahasa Inggris,314000,2024-02-22,2,3,0,Pendidikan
+Nonton bioskop CGV,42500,2024-03-07,3,3,0,Hiburan
+Es teh manis,77500,2024-04-01,4,0,0,Makanan & Minuman
+Fotokopi materi kuliah,233000,2024-12-18,12,2,0,Pendidikan
+Beli masker,72500,2024-03-19,3,1,0,Kesehatan
+Netflix bulanan,58000,2024-05-24,5,4,0,Hiburan
+Nonton bioskop CGV,466000,2024-03-20,3,2,0,Hiburan
+Kursus bahasa Inggris,335000,2024-04-22,4,0,0,Pendidikan
+Kursus bahasa Inggris,284000,2024-02-02,2,4,0,Pendidikan
+Beli obat apotek,253500,2024-08-07,8,2,0,Kesehatan
+Beli tas ransel,29000,2024-09-12,9,3,0,Belanja
+Steam game,73500,2024-11-23,11,5,1,Hiburan
+Grab ke kantor,124000,2024-01-17,1,2,0,Transportasi
+Game top up Mobile Legends,181000,2024-12-16,12,0,0,Hiburan
+Beli masker,163500,2024-03-04,3,0,0,Kesehatan
+Beli baju Uniqlo,600500,2024-11-14,11,3,0,Belanja
+Tiket busway,10500,2024-05-14,5,1,0,Transportasi
+Gojek pulang kerja,186000,2024-01-20,1,5,1,Transportasi
+Langganan Coursera,283000,2024-06-11,6,1,0,Pendidikan
+Bayar air PDAM,949000,2024-04-18,4,3,0,Tagihan
+Makan siang warteg,93500,2024-10-10,10,3,0,Makanan & Minuman
+KFC,34500,2024-02-23,2,4,0,Makanan & Minuman
+Iuran BPJS,12500,2024-03-04,3,0,0,Kesehatan
+Iuran BPJS,60000,2024-11-09,11,5,1,Kesehatan
+Fotokopi materi kuliah,166000,2024-11-03,11,6,1,Pendidikan
+Grab ke kantor,20000,2024-07-28,7,6,1,Transportasi
+Suplemen olahraga,290500,2024-10-27,10,6,1,Kesehatan
+Beli pulsa,717000,2024-12-09,12,0,0,Tagihan
+Beli baju Uniqlo,527500,2024-02-03,2,5,1,Belanja
+YouTube Premium,461000,2024-03-04,3,0,0,Hiburan
+Ojek online kampus,191500,2024-12-22,12,6,1,Transportasi
+Beli tas ransel,445500,2024-02-11,2,6,1,Belanja
+Beli jurnal,17000,2024-01-02,1,1,0,Pendidikan
+Beli sepatu,420500,2024-03-31,3,6,1,Belanja
+Suplemen olahraga,20000,2024-03-16,3,5,1,Kesehatan
+Beli tas ransel,780000,2024-09-06,9,4,0,Belanja
+Tagihan internet Indihome,455500,2024-08-09,8,4,0,Tagihan
+Beli charger HP,659000,2024-05-11,5,5,1,Belanja
+McDonald,92000,2024-10-19,10,5,1,Makanan & Minuman
+Top up OVO,928000,2024-11-10,11,6,1,Tagihan
+Parkir mall,192500,2024-11-07,11,3,0,Transportasi
+McDonald,57500,2024-11-04,11,0,0,Makanan & Minuman
+Tiket busway,20500,2024-09-30,9,0,0,Transportasi
+Kursus online Udemy,207000,2024-12-13,12,4,0,Pendidikan
+Makan malam padang,96000,2024-04-17,4,2,0,Makanan & Minuman
+Konsultasi dokter umum,206000,2024-12-26,12,3,0,Kesehatan
+Beli alat tulis,75500,2024-05-18,5,5,1,Pendidikan
+Alfamart kebutuhan rumah,263500,2024-03-31,3,6,1,Belanja
+Tiket wahana Dufan,368500,2024-02-11,2,6,1,Hiburan
+Skincare Wardah,102500,2024-02-01,2,3,0,Belanja
+Gojek pulang kerja,61000,2024-04-13,4,5,1,Transportasi
+Tiket busway,140000,2024-05-04,5,5,1,Transportasi
+Beli buku programming,371500,2024-07-09,7,1,0,Pendidikan
+Tiket kereta Bandung,111000,2024-06-01,6,5,1,Transportasi
+Tiket KRL,141500,2024-07-24,7,2,0,Transportasi
+Beli baju Uniqlo,505500,2024-08-02,8,4,0,Belanja
+Tagihan kartu kredit,468500,2024-12-30,12,0,0,Tagihan
+Game top up Mobile Legends,459000,2024-04-06,4,5,1,Hiburan
+Sarapan nasi uduk,29000,2024-05-21,5,1,0,Makanan & Minuman
+Bayar air PDAM,343000,2024-12-22,12,6,1,Tagihan
+Top up OVO,934000,2024-01-31,1,2,0,Tagihan
+Pizza Hut,37000,2024-02-16,2,4,0,Makanan & Minuman
+Beli buku programming,417000,2024-11-15,11,4,0,Pendidikan
+Bayar air PDAM,953000,2024-07-13,7,5,1,Tagihan
+Steam game,468500,2024-02-08,2,3,0,Hiburan
+Tiket kereta Bandung,75000,2024-10-15,10,1,0,Transportasi
+Tiket KRL,199000,2024-04-27,4,5,1,Transportasi
+Makan malam padang,21500,2024-06-24,6,0,0,Makanan & Minuman
+Steam game,71500,2024-06-13,6,3,0,Hiburan
+Bensin mobil,193000,2024-05-20,5,0,0,Transportasi
+Bakso solo,112500,2024-04-26,4,4,0,Makanan & Minuman
+Beli tas ransel,728500,2024-09-16,9,0,0,Belanja
+Game top up Mobile Legends,387000,2024-04-18,4,3,0,Hiburan
+Tagihan kartu kredit,180500,2024-11-08,11,4,0,Tagihan
+Langganan Coursera,26000,2024-01-31,1,2,0,Pendidikan
+Beli jurnal,283000,2024-12-16,12,0,0,Pendidikan
+Beli kopi Kenangan,116000,2024-11-05,11,1,0,Makanan & Minuman
+Vitamin C Redoxon,119500,2024-02-10,2,5,1,Kesehatan
+Top up OVO,89500,2024-11-04,11,0,0,Tagihan
+Iuran BPJS,54000,2024-07-17,7,2,0,Kesehatan
+Konsultasi dokter umum,23500,2024-04-04,4,3,0,Kesehatan
+Beli pulsa,963000,2024-02-24,2,5,1,Tagihan
+Beli air mineral galon,84000,2024-08-11,8,6,1,Makanan & Minuman
+Klinik gigi,101500,2024-08-22,8,3,0,Kesehatan
+Beli tas ransel,415000,2024-09-08,9,6,1,Belanja
+Karaoke happy hour,182000,2024-07-01,7,0,0,Hiburan
+Beli buku programming,362500,2024-01-19,1,4,0,Pendidikan
+YouTube Premium,390500,2024-07-19,7,4,0,Hiburan
+Beli buku programming,95500,2024-12-03,12,1,0,Pendidikan
+Beli flashcard,302500,2024-12-07,12,5,1,Pendidikan
+Tiket konser,382000,2024-12-08,12,6,1,Hiburan
+Fotokopi materi kuliah,91000,2024-03-27,3,2,0,Pendidikan
+Beli charger HP,437000,2024-12-07,12,5,1,Belanja
+Bayar listrik PLN,589500,2024-06-08,6,5,1,Tagihan
+Tagihan kartu kredit,570000,2024-02-24,2,5,1,Tagihan
+Nonton bioskop CGV,150500,2024-02-23,2,4,0,Hiburan
+Beli hand sanitizer,40000,2024-10-28,10,0,0,Kesehatan
+Alfamart kebutuhan rumah,148000,2024-02-18,2,6,1,Belanja
+Top up Free Fire,289000,2024-08-02,8,4,0,Hiburan
+Alfamart kebutuhan rumah,270000,2024-03-12,3,1,0,Belanja
+Beli sepatu,293500,2024-01-06,1,5,1,Belanja
+Beli tas ransel,242000,2024-01-01,1,0,0,Belanja
+Beli paracetamol,217500,2024-02-01,2,3,0,Kesehatan
+Suplemen olahraga,36500,2024-03-23,3,5,1,Kesehatan
+Bayar air PDAM,259000,2024-12-22,12,6,1,Tagihan
+Vitamin C Redoxon,40500,2024-10-02,10,2,0,Kesehatan
+Beli pulsa,575500,2024-12-18,12,2,0,Tagihan
+Bensin mobil,91000,2024-07-25,7,3,0,Transportasi
+Beli sepatu,618000,2024-06-22,6,5,1,Belanja
+Suplemen olahraga,190500,2024-11-08,11,4,0,Kesehatan
+Deterjen & sabun,308000,2024-08-10,8,5,1,Belanja
+Beli jurnal,242000,2024-11-09,11,5,1,Pendidikan
+Beli masker,162500,2024-01-22,1,0,0,Kesehatan
+Tokopedia elektronik,528500,2024-05-06,5,0,0,Belanja
+Beli pulsa,855000,2024-01-11,1,3,0,Tagihan
+McDonald,149000,2024-11-06,11,2,0,Makanan & Minuman
+Top up Free Fire,189500,2024-05-24,5,4,0,Hiburan
+Ojek online kampus,44000,2024-10-19,10,5,1,Transportasi
+Bensin mobil,139500,2024-12-22,12,6,1,Transportasi
+Langganan Coursera,209500,2024-03-15,3,4,0,Pendidikan
+Nonton bioskop CGV,418000,2024-02-12,2,0,0,Hiburan
+Tiket KRL,133500,2024-01-29,1,0,0,Transportasi
+Beli tas ransel,256000,2024-06-24,6,0,0,Belanja
+Beli tas ransel,468000,2024-11-14,11,3,0,Belanja
+KFC,99000,2024-09-25,9,2,0,Makanan & Minuman
+Shopee belanja bulanan,794500,2024-06-26,6,2,0,Belanja
+Fotokopi materi kuliah,120000,2024-08-15,8,3,0,Pendidikan
+Ojek online kampus,120000,2024-01-31,1,2,0,Transportasi
+Grab ke kantor,135000,2024-02-22,2,3,0,Transportasi
+Tol Jakarta Bekasi,173500,2024-10-13,10,6,1,Transportasi
+Langganan Coursera,306500,2024-10-26,10,5,1,Pendidikan
+Karaoke happy hour,463000,2024-03-12,3,1,0,Hiburan
+Sarapan nasi uduk,86000,2024-05-06,5,0,0,Makanan & Minuman
+Kursus online Udemy,189500,2024-11-23,11,5,1,Pendidikan
+Tiket konser,310000,2024-08-29,8,3,0,Hiburan
+YouTube Premium,68000,2024-12-16,12,0,0,Hiburan
+Suplemen olahraga,59000,2024-06-05,6,2,0,Kesehatan
+Jajan pasar,55500,2024-11-26,11,1,0,Makanan & Minuman
+Top up Free Fire,409000,2024-02-23,2,4,0,Hiburan
+Tiket konser,42500,2024-01-20,1,5,1,Hiburan
+Pizza Hut,31000,2024-01-11,1,3,0,Makanan & Minuman
+Alfamart kebutuhan rumah,281500,2024-02-07,2,2,0,Belanja
+Skincare Wardah,647000,2024-08-12,8,0,0,Belanja
+Beli jurnal,476000,2024-04-18,4,3,0,Pendidikan
+Vitamin C Redoxon,113000,2024-09-11,9,2,0,Kesehatan
+Cicilan HP,112000,2024-07-28,7,6,1,Tagihan
+Kursus bahasa Inggris,64000,2024-09-03,9,1,0,Pendidikan
+Shopee belanja bulanan,261500,2024-02-01,2,3,0,Belanja
+Steam game,315000,2024-06-05,6,2,0,Hiburan
+Beli charger HP,622000,2024-02-03,2,5,1,Belanja
+Vitamin C Redoxon,146000,2024-02-02,2,4,0,Kesehatan
+Beli flashcard,96000,2024-10-10,10,3,0,Pendidikan
+Bayar listrik PLN,38500,2024-12-31,12,1,0,Tagihan
+Shopee belanja bulanan,515500,2024-06-27,6,3,0,Belanja
+Tiket konser,178000,2024-03-11,3,0,0,Hiburan
+Tiket wahana Dufan,86000,2024-03-23,3,5,1,Hiburan
+Bayar listrik PLN,963000,2024-10-22,10,1,0,Tagihan
+Bayar air PDAM,263500,2024-06-06,6,3,0,Tagihan
+Suplemen olahraga,183500,2024-03-26,3,1,0,Kesehatan
+Beli baju Uniqlo,140500,2024-11-02,11,5,1,Belanja
+Bayar air PDAM,564000,2024-05-22,5,2,0,Tagihan
+Ojek online kampus,88500,2024-06-28,6,4,0,Transportasi
+Ojek online kampus,135000,2024-04-30,4,1,0,Transportasi
+Kursus online Udemy,120500,2024-12-27,12,4,0,Pendidikan
+Bayar listrik PLN,284500,2024-05-20,5,0,0,Tagihan
+Beli tas ransel,763500,2024-05-05,5,6,1,Belanja
+Game top up Mobile Legends,254500,2024-09-16,9,0,0,Hiburan
+Jajan pasar,49000,2024-02-05,2,0,0,Makanan & Minuman
+Grab ke kantor,76000,2024-12-06,12,4,0,Transportasi
+Grab ke kantor,25500,2024-02-03,2,5,1,Transportasi
+Beli baju Uniqlo,217000,2024-09-17,9,1,0,Belanja
+Klinik gigi,29000,2024-01-03,1,2,0,Kesehatan
+Jajan pasar,36000,2024-11-27,11,2,0,Makanan & Minuman
+Beli sepatu,632500,2024-02-29,2,3,0,Belanja
+Beli buku programming,239500,2024-08-30,8,4,0,Pendidikan
+Spotify premium,62500,2024-06-07,6,4,0,Hiburan
+Bensin motor,190500,2024-10-02,10,2,0,Transportasi
+Vitamin C Redoxon,287000,2024-02-02,2,4,0,Kesehatan
+Tol Jakarta Bekasi,41500,2024-05-08,5,2,0,Transportasi
+Beli alat tulis,48500,2024-02-11,2,6,1,Pendidikan
+Konsultasi dokter umum,96500,2024-09-21,9,5,1,Kesehatan
+Beli hand sanitizer,174000,2024-02-16,2,4,0,Kesehatan
+Bensin motor,95000,2024-11-10,11,6,1,Transportasi
+Bayar kos bulanan,996000,2024-09-27,9,4,0,Tagihan
+Klinik gigi,283000,2024-04-07,4,6,1,Kesehatan
+Netflix bulanan,203500,2024-09-09,9,0,0,Hiburan
+Tokopedia elektronik,88500,2024-06-15,6,5,1,Belanja
+Netflix bulanan,239000,2024-01-20,1,5,1,Hiburan
+Beli baju Uniqlo,225500,2024-06-26,6,2,0,Belanja
+Cicilan HP,769500,2024-12-07,12,5,1,Tagihan
+Beli baju Uniqlo,356000,2024-07-28,7,6,1,Belanja
+Beli charger HP,647500,2024-09-25,9,2,0,Belanja
+Tiket kereta Bandung,69000,2024-05-11,5,5,1,Transportasi
+Tiket konser,174500,2024-01-24,1,2,0,Hiburan
+Parkir mall,155000,2024-04-02,4,1,0,Transportasi
+Tiket KRL,12500,2024-12-08,12,6,1,Transportasi
+Iuran BPJS,35000,2024-08-17,8,5,1,Kesehatan
+Cicilan HP,427000,2024-09-04,9,2,0,Tagihan
+Beli flashcard,18000,2024-12-11,12,2,0,Pendidikan
+Suplemen olahraga,160500,2024-11-07,11,3,0,Kesehatan
+KFC,69500,2024-07-16,7,1,0,Makanan & Minuman
+Iuran BPJS,106000,2024-08-02,8,4,0,Kesehatan
+Beli buku programming,31500,2024-09-12,9,3,0,Pendidikan
+Top up Free Fire,230500,2024-05-13,5,0,0,Hiburan
+Jajan pasar,59500,2024-08-29,8,3,0,Makanan & Minuman
+Tagihan internet Indihome,612500,2024-02-19,2,0,0,Tagihan
+Nonton bioskop CGV,341000,2024-09-20,9,4,0,Hiburan
+Makan siang warteg,16500,2024-09-29,9,6,1,Makanan & Minuman
+Bayar air PDAM,805000,2024-09-12,9,3,0,Tagihan
+Gofood ayam geprek,96000,2024-10-03,10,3,0,Makanan & Minuman
+Netflix bulanan,138000,2024-03-07,3,3,0,Hiburan
+Beli baju Uniqlo,531500,2024-05-18,5,5,1,Belanja
+Nonton bioskop CGV,486500,2024-10-28,10,0,0,Hiburan
+Kursus online Udemy,417000,2024-11-04,11,0,0,Pendidikan
+Tiket wahana Dufan,293500,2024-06-22,6,5,1,Hiburan
+Fotokopi materi kuliah,293000,2024-09-19,9,3,0,Pendidikan
+Shopee belanja bulanan,715500,2024-01-07,1,6,1,Belanja
+Steam game,434000,2024-02-03,2,5,1,Hiburan
+Beli boba,89500,2024-03-18,3,0,0,Makanan & Minuman
+Tiket KRL,157500,2024-12-03,12,1,0,Transportasi
+Top up Free Fire,259000,2024-03-07,3,3,0,Hiburan
+Langganan Coursera,348500,2024-09-27,9,4,0,Pendidikan
+Netflix bulanan,248500,2024-03-09,3,5,1,Hiburan
+Bensin motor,195500,2024-02-05,2,0,0,Transportasi
+Beli flashcard,110000,2024-05-06,5,0,0,Pendidikan
+Bensin motor,134000,2024-07-26,7,4,0,Transportasi
+Bayar air PDAM,928000,2024-10-19,10,5,1,Tagihan
+Steam game,97000,2024-04-05,4,4,0,Hiburan
+Shopee belanja bulanan,483500,2024-06-26,6,2,0,Belanja
+Grab ke kantor,35000,2024-08-03,8,5,1,Transportasi
+Beli pulsa,253000,2024-05-03,5,4,0,Tagihan
+Tiket busway,177000,2024-07-13,7,5,1,Transportasi
+Netflix bulanan,48500,2024-12-04,12,2,0,Hiburan
+Beli flashcard,276500,2024-08-29,8,3,0,Pendidikan
+Tiket wahana Dufan,29500,2024-09-07,9,5,1,Hiburan
+Kursus bahasa Inggris,86000,2024-09-05,9,3,0,Pendidikan
+Beli sepatu,90500,2024-01-04,1,3,0,Belanja
+Fotokopi materi kuliah,414500,2024-04-30,4,1,0,Pendidikan
+Beli jurnal,414000,2024-04-21,4,6,1,Pendidikan
+Bayar air PDAM,746000,2024-10-31,10,3,0,Tagihan
+Alfamart kebutuhan rumah,212000,2024-04-27,4,5,1,Belanja
+Beli hand sanitizer,177500,2024-08-31,8,5,1,Kesehatan
+Top up Free Fire,124000,2024-02-16,2,4,0,Hiburan
+Fotokopi materi kuliah,40500,2024-05-16,5,3,0,Pendidikan
+Tagihan kartu kredit,119000,2024-01-03,1,2,0,Tagihan
+Cicilan HP,415500,2024-05-29,5,2,0,Tagihan
+Nonton bioskop CGV,78500,2024-06-04,6,1,0,Hiburan
+Beli kopi Kenangan,86000,2024-11-11,11,0,0,Makanan & Minuman
+Suplemen olahraga,207000,2024-12-27,12,4,0,Kesehatan
+Tiket busway,165500,2024-12-31,12,1,0,Transportasi
+Tiket wahana Dufan,396000,2024-07-27,7,5,1,Hiburan
+Tiket busway,138000,2024-11-12,11,1,0,Transportasi
+Nonton bioskop CGV,382500,2024-09-03,9,1,0,Hiburan
+Bayar kos bulanan,955000,2024-01-16,1,1,0,Tagihan
+Spotify premium,456000,2024-02-07,2,2,0,Hiburan
+Cicilan HP,709500,2024-03-16,3,5,1,Tagihan
+Karaoke happy hour,210500,2024-07-28,7,6,1,Hiburan
+Tagihan internet Indihome,299000,2024-05-16,5,3,0,Tagihan
+Ojek online kampus,185000,2024-05-18,5,5,1,Transportasi
+Tagihan internet Indihome,675500,2024-11-29,11,4,0,Tagihan
+Top up Free Fire,30500,2024-01-31,1,2,0,Hiburan
+Tiket kereta Bandung,104000,2024-12-22,12,6,1,Transportasi
+Alfamart kebutuhan rumah,477500,2024-11-08,11,4,0,Belanja
+Makan siang warteg,128500,2024-04-09,4,1,0,Makanan & Minuman
+Steam game,337000,2024-05-17,5,4,0,Hiburan
+Tagihan kartu kredit,440000,2024-07-18,7,3,0,Tagihan
+Klinik gigi,107000,2024-02-26,2,0,0,Kesehatan
+Beli masker,140000,2024-02-02,2,4,0,Kesehatan
+Fotokopi materi kuliah,162000,2024-09-11,9,2,0,Pendidikan
+Shopee belanja bulanan,141500,2024-11-19,11,1,0,Belanja
+Grab food mie ayam,53000,2024-08-12,8,0,0,Makanan & Minuman
+YouTube Premium,192000,2024-01-01,1,0,0,Hiburan
+Top up Free Fire,279000,2024-01-08,1,0,0,Hiburan
+Bayar kos bulanan,53000,2024-12-07,12,5,1,Tagihan
+Tagihan kartu kredit,816500,2024-06-11,6,1,0,Tagihan
+Beli boba,108500,2024-05-20,5,0,0,Makanan & Minuman
+Beli masker,51000,2024-07-16,7,1,0,Kesehatan
+Grab ke kantor,36500,2024-12-18,12,2,0,Transportasi
+Tol Jakarta Bekasi,90000,2024-08-04,8,6,1,Transportasi
+Tiket konser,458500,2024-10-25,10,4,0,Hiburan
+Tagihan internet Indihome,951000,2024-05-23,5,3,0,Tagihan
+Grab ke kantor,179500,2024-08-26,8,0,0,Transportasi
+Beli obat apotek,88500,2024-11-11,11,0,0,Kesehatan
+Beli pulsa,954500,2024-01-11,1,3,0,Tagihan
+Tagihan kartu kredit,801000,2024-02-02,2,4,0,Tagihan
+Beli pulsa,367000,2024-12-21,12,5,1,Tagihan
+Makan siang warteg,34500,2024-06-20,6,3,0,Makanan & Minuman
+Netflix bulanan,233500,2024-09-27,9,4,0,Hiburan
+Netflix bulanan,221000,2024-07-31,7,2,0,Hiburan
+Fotokopi materi kuliah,206000,2024-08-30,8,4,0,Pendidikan
+Shopee belanja bulanan,296500,2024-03-28,3,3,0,Belanja
+Grab ke kantor,195500,2024-08-01,8,3,0,Transportasi
+Skincare Wardah,786500,2024-08-08,8,3,0,Belanja
+Deterjen & sabun,265500,2024-01-02,1,1,0,Belanja
+Beli obat apotek,234000,2024-11-29,11,4,0,Kesehatan
+Parkir mall,138500,2024-10-23,10,2,0,Transportasi
+Tiket konser,440500,2024-10-11,10,4,0,Hiburan
+Beli pulsa,381000,2024-03-08,3,4,0,Tagihan
+Bayar listrik PLN,507500,2024-11-03,11,6,1,Tagihan
+Konsultasi dokter umum,34500,2024-09-20,9,4,0,Kesehatan
+Beli sepatu,149500,2024-08-07,8,2,0,Belanja
+Tokopedia elektronik,312500,2024-03-05,3,1,0,Belanja
+KFC,117500,2024-02-17,2,5,1,Makanan & Minuman
+Grab food mie ayam,129500,2024-11-05,11,1,0,Makanan & Minuman
+Iuran BPJS,64000,2024-05-11,5,5,1,Kesehatan
+Top up GoPay,321500,2024-04-19,4,4,0,Tagihan
+Spotify premium,118000,2024-12-12,12,3,0,Hiburan
+Bensin mobil,113500,2024-09-15,9,6,1,Transportasi
+Beli charger HP,703500,2024-08-16,8,4,0,Belanja
+Beli obat apotek,251500,2024-08-03,8,5,1,Kesehatan
+Beli boba,104000,2024-06-10,6,0,0,Makanan & Minuman
+Beli sepatu,653500,2024-06-28,6,4,0,Belanja
+Gojek pulang kerja,192500,2024-05-15,5,2,0,Transportasi
+Bensin motor,119500,2024-06-20,6,3,0,Transportasi
+Alfamart kebutuhan rumah,721500,2024-02-09,2,4,0,Belanja
+Beli paracetamol,109000,2024-06-29,6,5,1,Kesehatan
+Bayar kos bulanan,128000,2024-10-16,10,2,0,Tagihan
+Tiket KRL,58500,2024-11-30,11,5,1,Transportasi
+Beli baju Uniqlo,555500,2024-10-21,10,0,0,Belanja
+Beli hand sanitizer,185000,2024-12-06,12,4,0,Kesehatan
+YouTube Premium,71500,2024-10-10,10,3,0,Hiburan
+Beli kopi Kenangan,40000,2024-05-23,5,3,0,Makanan & Minuman
+KFC,71500,2024-12-31,12,1,0,Makanan & Minuman
+Beli pulsa,299000,2024-09-30,9,0,0,Tagihan
+Beli boba,15500,2024-05-18,5,5,1,Makanan & Minuman
+Tiket busway,153500,2024-04-18,4,3,0,Transportasi
+Bayar air PDAM,46500,2024-06-26,6,2,0,Tagihan
+Beli alat tulis,282000,2024-11-07,11,3,0,Pendidikan
+Iuran BPJS,201000,2024-04-24,4,2,0,Kesehatan
+Bayar listrik PLN,128500,2024-10-28,10,0,0,Tagihan
+Gojek pulang kerja,188500,2024-04-18,4,3,0,Transportasi
+Deterjen & sabun,547000,2024-05-08,5,2,0,Belanja
+Vitamin C Redoxon,114000,2024-08-16,8,4,0,Kesehatan
+Beli charger HP,504500,2024-10-27,10,6,1,Belanja
+Langganan Coursera,449500,2024-02-29,2,3,0,Pendidikan
+Beli pulsa,156500,2024-05-12,5,6,1,Tagihan
+Beli pulsa,251000,2024-10-16,10,2,0,Tagihan
+Spotify premium,146500,2024-10-03,10,3,0,Hiburan
+Ojek online kampus,95500,2024-12-23,12,0,0,Transportasi
+Pizza Hut,39500,2024-01-19,1,4,0,Makanan & Minuman
+Grab ke kantor,46500,2024-01-04,1,3,0,Transportasi
+Nonton bioskop CGV,278500,2024-12-20,12,4,0,Hiburan
+Jajan pasar,64000,2024-06-27,6,3,0,Makanan & Minuman
+Beli baju Uniqlo,583000,2024-01-23,1,1,0,Belanja
+Ojek online kampus,143500,2024-10-06,10,6,1,Transportasi
+Bayar air PDAM,542000,2024-06-29,6,5,1,Tagihan
+Beli baju Uniqlo,745500,2024-01-06,1,5,1,Belanja
+Beli jurnal,44500,2024-10-01,10,1,0,Pendidikan
+Beli charger HP,167500,2024-06-06,6,3,0,Belanja
+Cicilan HP,145500,2024-03-16,3,5,1,Tagihan
+Bensin mobil,13000,2024-02-27,2,1,0,Transportasi
+Tiket kereta Bandung,47500,2024-03-13,3,2,0,Transportasi
+Beli masker,99500,2024-07-19,7,4,0,Kesehatan
+Beli masker,132500,2024-10-23,10,2,0,Kesehatan
+Suplemen olahraga,78500,2024-05-07,5,1,0,Kesehatan
+Top up GoPay,656000,2024-07-19,7,4,0,Tagihan
+Fotokopi materi kuliah,130000,2024-10-02,10,2,0,Pendidikan
+Beli hand sanitizer,48000,2024-07-07,7,6,1,Kesehatan
+Top up OVO,894000,2024-10-30,10,2,0,Tagihan
+Tiket busway,173500,2024-06-10,6,0,0,Transportasi
+Indomaret snack,11500,2024-11-03,11,6,1,Makanan & Minuman
+Beli telur & sayur,103000,2024-02-05,2,0,0,Makanan & Minuman
+Kursus online Udemy,382500,2024-11-23,11,5,1,Pendidikan
+Tiket busway,162500,2024-02-03,2,5,1,Transportasi
+Top up Free Fire,88500,2024-01-14,1,6,1,Hiburan
+Beli tas ransel,673500,2024-05-06,5,0,0,Belanja
+Skincare Wardah,120000,2024-07-11,7,3,0,Belanja
+Beli tas ransel,520000,2024-04-04,4,3,0,Belanja
+Deterjen & sabun,503000,2024-04-13,4,5,1,Belanja
+Tol Jakarta Bekasi,74000,2024-07-11,7,3,0,Transportasi
+Beli air mineral galon,81000,2024-09-18,9,2,0,Makanan & Minuman
+Beli tas ransel,94000,2024-11-18,11,0,0,Belanja
+Iuran BPJS,255500,2024-12-15,12,6,1,Kesehatan
+Es teh manis,44000,2024-04-15,4,0,0,Makanan & Minuman
+Parkir mall,86000,2024-11-12,11,1,0,Transportasi
+Langganan Coursera,57500,2024-06-25,6,1,0,Pendidikan
+Beli buku programming,347500,2024-07-21,7,6,1,Pendidikan
+Makan siang warteg,37000,2024-04-15,4,0,0,Makanan & Minuman
+Beli baju Uniqlo,604000,2024-02-01,2,3,0,Belanja
+Steam game,483000,2024-11-28,11,3,0,Hiburan
+Karaoke happy hour,353500,2024-01-16,1,1,0,Hiburan
+Beli baju Uniqlo,348000,2024-07-10,7,2,0,Belanja
+Langganan Coursera,61500,2024-09-11,9,2,0,Pendidikan
+Makan malam padang,133500,2024-11-07,11,3,0,Makanan & Minuman
+Beli baju Uniqlo,456000,2024-09-02,9,0,0,Belanja
+Bayar air PDAM,759000,2024-01-26,1,4,0,Tagihan
+Tiket KRL,199000,2024-04-22,4,0,0,Transportasi
+Beli boba,120500,2024-11-02,11,5,1,Makanan & Minuman
+YouTube Premium,175500,2024-05-12,5,6,1,Hiburan
+Beli masker,71500,2024-03-31,3,6,1,Kesehatan
+Parkir mall,160500,2024-08-09,8,4,0,Transportasi
+Deterjen & sabun,283000,2024-07-19,7,4,0,Belanja
+Tiket wahana Dufan,481500,2024-01-18,1,3,0,Hiburan
+Beli flashcard,89000,2024-02-14,2,2,0,Pendidikan
+Beli buku programming,326000,2024-09-12,9,3,0,Pendidikan
+Skincare Wardah,685000,2024-11-01,11,4,0,Belanja
+Top up Free Fire,460000,2024-10-30,10,2,0,Hiburan
+Karaoke happy hour,38000,2024-08-23,8,4,0,Hiburan
+Tagihan kartu kredit,818000,2024-02-02,2,4,0,Tagihan
+Beli pulsa,256000,2024-11-07,11,3,0,Tagihan
+Fotokopi materi kuliah,39500,2024-12-03,12,1,0,Pendidikan
+Beli charger HP,353500,2024-01-08,1,0,0,Belanja
+Top up GoPay,165500,2024-05-10,5,4,0,Tagihan
+Beli sepatu,783500,2024-12-21,12,5,1,Belanja
+Grab ke kantor,4500,2024-07-31,7,2,0,Transportasi
+Tol Jakarta Bekasi,4500,2024-04-08,4,0,0,Transportasi
+Bensin motor,177000,2024-04-29,4,0,0,Transportasi
+Tiket kereta Bandung,72500,2024-06-07,6,4,0,Transportasi
+Beli buku programming,276000,2024-12-15,12,6,1,Pendidikan
+Beli buku programming,435500,2024-06-19,6,2,0,Pendidikan
+Beli tas ransel,729500,2024-06-17,6,0,0,Belanja
+Suplemen olahraga,213500,2024-11-10,11,6,1,Kesehatan
+Beli obat apotek,42500,2024-11-12,11,1,0,Kesehatan
+Beli paracetamol,175500,2024-07-10,7,2,0,Kesehatan
+Bensin mobil,114000,2024-08-13,8,1,0,Transportasi
+Beli masker,17500,2024-05-14,5,1,0,Kesehatan
+Beli obat apotek,87500,2024-01-25,1,3,0,Kesehatan
+Langganan Coursera,70000,2024-03-09,3,5,1,Pendidikan
+Beli masker,51500,2024-05-09,5,3,0,Kesehatan
+Beli flashcard,176000,2024-04-18,4,3,0,Pendidikan
+Beli jurnal,499000,2024-08-29,8,3,0,Pendidikan
+Iuran BPJS,150500,2024-04-08,4,0,0,Kesehatan
+Beli charger HP,437000,2024-06-11,6,1,0,Belanja
+Beli pulsa,154500,2024-07-02,7,1,0,Tagihan
+Netflix bulanan,251000,2024-07-31,7,2,0,Hiburan
+Vitamin C Redoxon,62500,2024-02-08,2,3,0,Kesehatan
+Deterjen & sabun,567500,2024-08-23,8,4,0,Belanja
+Cicilan HP,598500,2024-05-25,5,5,1,Tagihan
+Karaoke happy hour,463000,2024-02-25,2,6,1,Hiburan
+Beli baju Uniqlo,652500,2024-03-11,3,0,0,Belanja
+Kursus bahasa Inggris,107000,2024-06-02,6,6,1,Pendidikan
+Beli hand sanitizer,189500,2024-05-08,5,2,0,Kesehatan
+Tol Jakarta Bekasi,53000,2024-01-09,1,1,0,Transportasi
+Tol Jakarta Bekasi,78500,2024-09-10,9,1,0,Transportasi
+Bayar kos bulanan,701500,2024-09-01,9,6,1,Tagihan
+Iuran BPJS,245000,2024-04-05,4,4,0,Kesehatan
+Klinik gigi,234000,2024-12-08,12,6,1,Kesehatan
+Top up OVO,421500,2024-12-17,12,1,0,Tagihan
+Sarapan nasi uduk,126000,2024-11-25,11,0,0,Makanan & Minuman
+Beli alat tulis,269500,2024-06-12,6,2,0,Pendidikan
+Kursus online Udemy,143000,2024-10-17,10,3,0,Pendidikan
+Karaoke happy hour,110500,2024-02-27,2,1,0,Hiburan
+Tagihan internet Indihome,201000,2024-06-04,6,1,0,Tagihan
+Beli baju Uniqlo,471500,2024-03-10,3,6,1,Belanja
+Nonton bioskop CGV,464500,2024-07-29,7,0,0,Hiburan
+Top up GoPay,77500,2024-09-13,9,4,0,Tagihan
+Beli flashcard,104000,2024-05-25,5,5,1,Pendidikan
+Gojek pulang kerja,168000,2024-05-30,5,3,0,Transportasi
+Spotify premium,148500,2024-03-24,3,6,1,Hiburan
+Top up OVO,942500,2024-05-28,5,1,0,Tagihan
+Beli flashcard,110500,2024-01-19,1,4,0,Pendidikan
+Vitamin C Redoxon,196500,2024-05-01,5,2,0,Kesehatan
+Ojek online kampus,116000,2024-12-09,12,0,0,Transportasi
+Skincare Wardah,341500,2024-04-10,4,2,0,Belanja
+YouTube Premium,27500,2024-10-30,10,2,0,Hiburan
+Iuran BPJS,239000,2024-06-09,6,6,1,Kesehatan
+Beli paracetamol,186500,2024-06-26,6,2,0,Kesehatan
+Tol Jakarta Bekasi,98500,2024-07-09,7,1,0,Transportasi
+Kursus online Udemy,386500,2024-11-29,11,4,0,Pendidikan
+Gofood ayam geprek,138500,2024-06-16,6,6,1,Makanan & Minuman
+Beli alat tulis,26000,2024-01-13,1,5,1,Pendidikan
+Cicilan HP,510500,2024-03-13,3,2,0,Tagihan
+Suplemen olahraga,187000,2024-05-02,5,3,0,Kesehatan
+Beli boba,101000,2024-08-19,8,0,0,Makanan & Minuman
+Beli flashcard,24500,2024-01-07,1,6,1,Pendidikan
+Tiket kereta Bandung,163000,2024-08-19,8,0,0,Transportasi
+Top up GoPay,231000,2024-07-23,7,1,0,Tagihan
+Grab ke kantor,76500,2024-06-30,6,6,1,Transportasi
+Beli paracetamol,253000,2024-10-11,10,4,0,Kesehatan
+Bayar air PDAM,34500,2024-03-06,3,2,0,Tagihan
+Makan malam padang,132000,2024-12-07,12,5,1,Makanan & Minuman
+Fotokopi materi kuliah,136000,2024-09-25,9,2,0,Pendidikan
+Bensin mobil,59500,2024-08-30,8,4,0,Transportasi
+Bayar kos bulanan,469000,2024-03-10,3,6,1,Tagihan
+Es teh manis,61000,2024-09-23,9,0,0,Makanan & Minuman
+Beli obat apotek,291000,2024-03-17,3,6,1,Kesehatan
+Beli telur & sayur,95500,2024-12-14,12,5,1,Makanan & Minuman
+Bayar kos bulanan,163500,2024-10-30,10,2,0,Tagihan
+Klinik gigi,234000,2024-10-18,10,4,0,Kesehatan
+Beli obat apotek,152000,2024-01-19,1,4,0,Kesehatan
+Nonton bioskop CGV,72000,2024-08-02,8,4,0,Hiburan
+Tiket konser,467000,2024-07-06,7,5,1,Hiburan
+Bensin motor,9500,2024-11-13,11,2,0,Transportasi
+Beli sepatu,221000,2024-12-27,12,4,0,Belanja
+Steam game,367000,2024-06-29,6,5,1,Hiburan
+Tiket busway,11000,2024-03-27,3,2,0,Transportasi
+Kursus online Udemy,202500,2024-01-28,1,6,1,Pendidikan
+Es teh manis,123500,2024-06-14,6,4,0,Makanan & Minuman
+Grab food mie ayam,8000,2024-12-31,12,1,0,Makanan & Minuman
+Vitamin C Redoxon,229000,2024-02-07,2,2,0,Kesehatan
+Makan malam padang,120000,2024-03-02,3,5,1,Makanan & Minuman
+Top up OVO,362500,2024-04-19,4,4,0,Tagihan
+Deterjen & sabun,568500,2024-01-25,1,3,0,Belanja
+Beli masker,56500,2024-10-23,10,2,0,Kesehatan
+Beli pulsa,909000,2024-04-06,4,5,1,Tagihan
+Game top up Mobile Legends,330000,2024-06-16,6,6,1,Hiburan
+Top up Free Fire,152000,2024-02-28,2,2,0,Hiburan
+Vitamin C Redoxon,185000,2024-11-24,11,6,1,Kesehatan
+Spotify premium,124500,2024-04-30,4,1,0,Hiburan
+Spotify premium,423500,2024-05-10,5,4,0,Hiburan
+KFC,88500,2024-02-23,2,4,0,Makanan & Minuman
+Deterjen & sabun,682500,2024-08-25,8,6,1,Belanja
+Steam game,180000,2024-06-19,6,2,0,Hiburan
+Alfamart kebutuhan rumah,547500,2024-04-28,4,6,1,Belanja
+Beli jurnal,329500,2024-01-30,1,1,0,Pendidikan
+Game top up Mobile Legends,288000,2024-08-18,8,6,1,Hiburan
+Vitamin C Redoxon,207500,2024-06-01,6,5,1,Kesehatan
+Steam game,293500,2024-04-11,4,3,0,Hiburan
+Beli hand sanitizer,238500,2024-05-27,5,0,0,Kesehatan
+Beli obat apotek,239000,2024-11-26,11,1,0,Kesehatan
+Parkir mall,87500,2024-02-26,2,0,0,Transportasi
+Tiket KRL,133500,2024-03-26,3,1,0,Transportasi
+Beli charger HP,764000,2024-11-25,11,0,0,Belanja
+Fotokopi materi kuliah,93500,2024-11-26,11,1,0,Pendidikan
+Iuran BPJS,34000,2024-03-31,3,6,1,Kesehatan
+Beli alat tulis,253000,2024-04-12,4,4,0,Pendidikan
+Beli pulsa,420000,2024-03-19,3,1,0,Tagihan
+Beli flashcard,217000,2024-07-03,7,2,0,Pendidikan
+Beli sepatu,196000,2024-01-26,1,4,0,Belanja
+YouTube Premium,471500,2024-02-29,2,3,0,Hiburan
+Vitamin C Redoxon,44500,2024-04-27,4,5,1,Kesehatan
+Tokopedia elektronik,645000,2024-11-18,11,0,0,Belanja
+Bensin motor,25500,2024-01-16,1,1,0,Transportasi
+Tagihan kartu kredit,759000,2024-08-02,8,4,0,Tagihan
+Bayar listrik PLN,279000,2024-03-29,3,4,0,Tagihan
+Spotify premium,272500,2024-07-15,7,0,0,Hiburan
+Beli jurnal,153500,2024-09-24,9,1,0,Pendidikan
+Langganan Coursera,430500,2024-02-25,2,6,1,Pendidikan
+Beli tas ransel,87500,2024-06-28,6,4,0,Belanja
+Tol Jakarta Bekasi,3000,2024-08-24,8,5,1,Transportasi
+Tol Jakarta Bekasi,186500,2024-07-07,7,6,1,Transportasi
+Bayar kos bulanan,698500,2024-02-20,2,1,0,Tagihan
+Bayar kos bulanan,255000,2024-06-08,6,5,1,Tagihan
