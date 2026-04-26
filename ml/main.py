@@ -4,6 +4,7 @@ from datetime import datetime
 import tensorflow as tf
 import numpy as np
 import pickle
+from fastapi.middleware.cors import CORSMiddleware
 
 # ── Load semua artefak model ──────────────────────────────────
 model = tf.keras.models.load_model("model/classifier.keras")
@@ -33,6 +34,14 @@ class PrediksiOutput(BaseModel):
 
 # ── FastAPI app ───────────────────────────────────────────────
 app = FastAPI(title="Finsight ML Service", version="1.0.0")
+
+# CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/")
 def root():
