@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Finsight — Demo</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f4f8;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .container {
+      background: white;
+      border-radius: 16px;
+      padding: 32px;
+      width: 100%;
+      max-width: 480px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      font-size: 22px;
+      color: #1A3C5E;
+      margin-bottom: 4px;
+    }
+
+    .subtitle {
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 28px;
+    }
+
+    label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: #444;
+      margin-bottom: 6px;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px 14px;
+      border: 1.5px solid #ddd;
+      border-radius: 8px;
+      font-size: 14px;
+      margin-bottom: 18px;
+      outline: none;
+      transition: border 0.2s;
+    }
+
+    input:focus { border-color: #2196A6; }
+
+    button {
+      width: 100%;
+      padding: 12px;
+      background: #1A3C5E;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    button:hover { background: #2196A6; }
+    button:disabled { background: #aaa; cursor: not-allowed; }
+
+    .result {
+      margin-top: 24px;
+      padding: 20px;
+      border-radius: 12px;
+      background: #f8fafc;
+      border: 1.5px solid #e2e8f0;
+      display: none;
+    }
+
+    .result.show { display: block; }
+
+    .kategori {
+      font-size: 22px;
+      font-weight: 700;
+      color: #1A3C5E;
+      margin-bottom: 8px;
+    }
+
+    .confidence {
+      font-size: 13px;
+      color: #666;
+      margin-bottom: 12px;
+    }
+
+    .alert-box {
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .alert-yes {
+      background: #FEE2E2;
+      color: #DC2626;
+    }
+
+    .alert-no {
+      background: #DCFCE7;
+      color: #16A34A;
+    }
+
+    .error {
+      margin-top: 16px;
+      padding: 12px;
+      background: #FEE2E2;
+      color: #DC2626;
+      border-radius: 8px;
+      font-size: 13px;
+      display: none;
+    }
+
+    .error.show { display: block; }
+
+    .emoji { font-size: 28px; margin-bottom: 8px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>💰 Finsight</h1>
+    <p class="subtitle">Klasifikasi transaksi otomatis dengan AI</p>
+
+    <label>Nama Transaksi</label>
+    <input type="text" id="nama" placeholder="cth: Grab ke kantor" />
+
+    <label>Nominal (Rp)</label>
+    <input type="number" id="nominal" placeholder="cth: 25000" />
+
+    <label>Tanggal</label>
+    <input type="date" id="tanggal" />
+
+    <button id="btn" onclick="predict()">Klasifikasi →</button>
+
+    <div class="error" id="error"></div>
+
+    <div class="result" id="result">
+      <div class="emoji" id="emoji"></div>
+      <div class="kategori" id="kategori"></div>
+      <div class="confidence" id="confidence"></div>
+      <div class="alert-box" id="alert"></div>
+    </div>
+  </div>
+
+  <script>
+    // Set tanggal default ke hari ini
+    document.getElementById("tanggal").value = new Date().toISOString().split("T")[0];
+
+    const EMOJI_MAP = {
+      "Makanan & Minuman": "🍜",
+      "Transportasi":      "🚗",
+      "Hiburan":           "🎬",
+      "Kesehatan":         "💊",
+      "Belanja":           "🛍️",
+      "Pendidikan":        "📚",
+      "Tagihan":           "🧾",
+    };
+
+    async function predict() {
+      const nama    = document.getElementById("nama").value.trim();
+      const nominal = parseFloat(document.getElementById("nominal").value);
+      const tanggal = document.getElementById("tanggal").value;
+      const btn     = document.getElementById("btn");
+      const errorEl = document.getElementById("error");
+      const resultEl = document.getElementById("result");
+
+      // Validasi
+      errorEl.classList.remove("show");
+      if (!nama || !nominal || !tanggal) {
+        errorEl.textContent = "Semua field wajib diisi!";
+        errorEl.classList.add("show");
+        return;
+      }
+
+      // Loading state
+      btn.disabled = true;
+      btn.textContent = "Memproses...";
+      resultEl.classList.remove("show");
+
+      try {
+        const response = await fetch("http://127.0.0.1:8000/predict", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ nama_transaksi: nama, nominal, tanggal }),
+        });
+
+        if (!response.ok) throw new Error("Server error: " + response.status);
+
+        const data = await response.json();
+
+        // Tampilkan hasil
+        document.getElementById("emoji").textContent     = EMOJI_MAP[data.kategori] || "💳";
+        document.getElementById("kategori").textContent  = data.kategori;
+        document.getElementById("confidence").textContent = `Confidence: ${(data.confidence * 100).toFixed(1)}%`;
+
+        const alertEl = document.getElementById("alert");
+        if (data.budget_alert) {
+          alertEl.textContent = "⚠️ Budget Alert — Transaksi ini melebihi batas anggaran kategori ini!";
+          alertEl.className   = "alert-box alert-yes";
+        } else {
+          alertEl.textContent = "✅ Dalam batas anggaran";
+          alertEl.className   = "alert-box alert-no";
+        }
+
+        resultEl.classList.add("show");
+
+      } catch (err) {
+        errorEl.textContent = "Gagal terhubung ke server. Pastikan FastAPI sedang berjalan.";
+        errorEl.classList.add("show");
+      } finally {
+        btn.disabled = false;
+        btn.textContent = "Klasifikasi →";
+      }
+    }
+  </script>
+</body>
+</html>
